@@ -14,5 +14,6 @@
   "author": "Alex Lesanu <alesanu@pentalog.com>",
   "license": "ISC",
   "dependencies": {
+    "nightwatch": "^1.0.19"
   }
 }
