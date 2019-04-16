@@ -1,0 +1,18 @@
+{
+  "name": "pentastagiu-nightwatch",
+  "version": "1.0.0",
+  "description": "Pentastagiu nightwatch",
+  "main": "index.js",
+  "keywords": [
+    "test",
+    "integration"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alesanu/pentastagiu_nightwatch"
+  },
+  "author": "Alex Lesanu <alesanu@pentalog.com>",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
